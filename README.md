@@ -30,7 +30,8 @@
     history_manager.py	Evita repetições de conteúdo previamente gerado
 
 ⚙️ Como rodar o projeto
-Observação: A lib moviepy não estava rodando corretamente com o .editor. Desta forma, instalei a versão mais antiga para rodar e descobri que a pillow também deveria ser uma versão antiga. Entretanto, ambas não rodavam com o python 3.13.x. Então, o projeto foi desenvolvido com python 3.10.x.
+
+    Observação: A lib moviepy não estava rodando corretamente com o .editor. Desta forma, instalei a versão mais antiga para rodar e descobri que a pillow também deveria ser uma versão antiga. Entretanto, ambas não rodavam com o python 3.13.x. Então, o projeto foi desenvolvido com python 3.10.x.
 
 Instale as dependências:
     pip install -r requirements.txt
