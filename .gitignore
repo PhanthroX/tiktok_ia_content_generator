@@ -1,0 +1,17 @@
+# Ignore pastas geradas
+audio/
+videos/
+carrossel/
+backgrounds/
+__pycache__/
+*.pyc
+
+# Ignore arquivos sensíveis
+config.py
+.env
+
+# Ignore arquivos de cache do sistema/IDE
+*.log
+.DS_Store
+.vscode/
+*.sqlite3
